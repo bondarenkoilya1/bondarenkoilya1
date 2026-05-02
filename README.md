@@ -1,6 +1,6 @@
-**FrontEnd Developer** (Current: React and TypeScript)
+w**FrontEnd Developer** (Current: React and TypeScript)
 <br>
 <br>
-Watch out my CV [here](https://drive.google.com/file/d/1pnUdTXO6WAvT_QE67M9yKJpTzw2FqTA1/view?usp=sharing)
+Watch out my CV [here](https://drive.google.com/file/d/1gbHV1EooG9fQaJFTp-bLPFVhn4yUhH6D/view?usp=sharing)
 <br>
 Or contact me in telegram right now: https://t.me/dworkinn / @dworkinn
