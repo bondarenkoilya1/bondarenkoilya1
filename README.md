@@ -4,8 +4,7 @@
 
 ---
 
-Последние два месяца я пишу собственное веб-приложение на React и Go, которое в планах выкатить в публичный доступ 1 ноября. Хотя начинал его с целью изучить новые технологии)
-
+Последние два месяца я пишу собственное веб-приложение на React и Go, которое в планах выкатить в публичный доступ 1 ноября. 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
